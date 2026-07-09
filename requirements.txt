@@ -42,7 +42,7 @@ greenlet==2.0.2
 grpcio==1.53.0
 grpcio-tools==1.53.0
 guidance==0.0.64
-h11==0.14.0
+h11==0.16.0
 hnswlib==0.7.0
 htmldate==1.4.3
 httpcore==0.16.3
